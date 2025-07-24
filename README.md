@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Aaron
 
 I'm an undergrad exploring applied ML and research in areas like speech, vision, and automation.  
-Currently working on research while building and experimenting with personal projects on the side.
-
----
-
-## 🧪 Research
 
 Some research projects I've been involved in (repos are private):
 
